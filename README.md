@@ -1,48 +1,41 @@
-# Análise do Catálogo Netflix 🎬
+# Investigating Netflix Movies - Analysis 🎬
 
-Este projeto explora dados do catálogo da Netflix, analisando a distribuição de conteúdo ao longo dos anos, principais diretores, países produtores e popularidade dos gêneros. Usando Python e bibliotecas de visualização de dados, realizamos análises exploratórias para entender as tendências e padrões do catálogo.
+This project explores data from the Netflix catalog, analyzing content distribution over the years, main directors, producing countries, and the popularity of genres. Using Python and data visualization libraries, we performed exploratory analysis to understand catalog trends and patterns.
 
-## Índice
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Análises e Visualizações](#análises-e-visualizações)
-- [Conclusão](#conclusão)
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Project Structure](#project-structure)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Analysis and Visualizations](#analysis-and-visualizations)
+- [Conclusion](#conclusion)
 
 ---
 
-## Sobre o Projeto
+## About the Project
 
-Este projeto é uma análise exploratória de dados (EDA) do catálogo Netflix, com foco nos aspectos de:
-- Frequência de diretores e gêneros no catálogo
-- Distribuição de países produtores por década
-- Tendências de conteúdo adicionado ao longo dos anos
-  
-Utilizamos Python, pandas e bibliotecas de visualização para identificar insights que ajudem a entender a curadoria e estratégia da Netflix.
+This project is an **Exploratory Data Analysis (EDA)** of the Netflix catalog, focusing on the following aspects:
+- Frequency of directors and genres in the catalog
+- Distribution of producing countries by decade
+- Content trends added over the years
 
-## Estrutura do Projeto
+We used Python, pandas, and visualization libraries to identify insights that help understand Netflix's curation and strategy.
 
-O notebook contém as seguintes seções de análise:
+## Project Structure
 
-1. **Carregamento e Limpeza de Dados**: Carregamento do dataset e pré-processamento das colunas.
-2. **Análise por Diretores**: Análise dos diretores mais frequentes, investigando sua contribuição para o catálogo da Netflix.
-3. **Gêneros ao Longo do Tempo**: Visualização dos gêneros predominantes e sua popularidade ao longo dos anos.
-4. **Distribuição por Países**: Análise dos países produtores de conteúdo ao longo das décadas.
-5. **Distribuição Anual de Conteúdo**: Tendências de conteúdo adicionado ao catálogo ao longo do tempo.
+The notebook contains the following analysis sections:
 
-## Pré-requisitos
+1. **Data Loading and Cleaning**: Loading the dataset and preprocessing the columns.
+2. **Genres Duration Movies**: Visualizing Movies have longer average runtimes.
+4. **Distribution by Countries**: Analyzing the producing countries of content across decades.
+5. **Annual Content Distribution**: Analyzing trends in content added to the catalog over time.
+
+## Prerequisites
 
 - Python 3.x
 - Jupyter Notebook
-- Bibliotecas:
+- Libraries:
   - `pandas`
   - `matplotlib`
-  - `seaborn`
 
-## Instalação
 
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
