@@ -1,4 +1,4 @@
-# Investigating Netflix Movies - Analysis - School Project🎬
+# Investigating Netflix Movies - Analysis 🎬
 
 This is a project that explores data from the Netflix catalog, analyzing content distribution over the years, producing countries, and the popularity of genres. Using Python and data visualization libraries, i performed exploratory analysis to understand catalog trends and patterns.
 
